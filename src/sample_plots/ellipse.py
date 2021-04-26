@@ -39,4 +39,4 @@ def rotate_ellipse():
 
 
 if __name__ == '__main__':
-    rotate_ellipse()
+    random_ellipse()
